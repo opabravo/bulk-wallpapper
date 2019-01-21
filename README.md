@@ -1,2 +1,2 @@
 # bulk-wallpapper
-Bulk download wallpappers from wallheaven.cc
+Bulk download wallpappers from wallhaven.cc
