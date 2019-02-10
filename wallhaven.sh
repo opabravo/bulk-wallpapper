@@ -298,8 +298,6 @@ function helpText {
     printf "with page 1 from the categories general, anime and people,\\n"
     printf "including SFW Content and excluding sketchy and NSWF Content "
     printf "while utilizing\\ngnu parallel\\n\\n\\n"
-    printf "latest version available at: "
-    printf "<https://github.com/macearl/Wallhaven-Downloader>\\n"
 } # /helptext
 
 # Command line Arguments
