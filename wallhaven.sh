@@ -25,9 +25,9 @@ PASS=""
 LOCATION=./wp
 # How many Wallpapers should be downloaded, should be multiples of the
 # value in the THUMBS Variable
-WPNUMBER=48
+WPNUMBER=100
 # What page to start downloading at, default and minimum of 1.
-STARTPAGE=70
+STARTPAGE=1
 # Type standard (newest, oldest, random, hits, mostfav), search, favorites
 # (for now only the default collection), useruploads (if selected, only
 # FILTER variable will change the outcome)
