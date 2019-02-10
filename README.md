@@ -1,12 +1,12 @@
 # About bulk-wallpapper
 Bulk download wallpappers from wallhaven.cc
 
-#Usage
+### Usage
 Usage: ./wallhaven.sh [OPTIONS]
 Download wallpapers from wallhaven.cc
 
 If no options are specified, default values from within the script will be used
-
+```
  -l, --location         location where the wallpapers will be stored
  -n, --number           Number of Wallpapers to download
  -s, --startpage        page to start downloading from
@@ -37,3 +37,4 @@ If no options are specified, default values from within the script will be used
  -p, --parallel         make use of gnu parallel (1 to enable, 0 to disable)
  -v, --version          show current version
  -h, --help             show this help text and exit
+```
